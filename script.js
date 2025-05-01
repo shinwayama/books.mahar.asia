@@ -132,3 +132,44 @@ document.addEventListener('DOMContentLoaded', function() {
         modal.style.display = 'block';
     }
 });
+
+// Add this to your existing script
+function handleCardClick(book) {
+    // Check if it's a touch device
+    const isTouchDevice = 'ontouchstart' in window || navigator.maxTouchPoints;
+    
+    if (isTouchDevice) {
+        // Add a small delay to prevent accidental clicks while scrolling
+        let touchTimer;
+        
+        bookCard.addEventListener('touchstart', () => {
+            touchTimer = setTimeout(() => {
+                openModal(book);
+            }, 200);
+        });
+        
+        bookCard.addEventListener('touchend', () => {
+            clearTimeout(touchTimer);
+        });
+    } else {
+        bookCard.addEventListener('click', () => openModal(book));
+    }
+}
+
+// Then update your createBookCard function to use this:
+function createBookCard(book) {
+    const bookCard = document.createElement('div');
+    bookCard.className = 'book-card';
+    bookCard.classList.add(bookContainer.classList.contains('grid-view') ? 'grid-view' : 'list-view');
+    bookCard.innerHTML = `
+        <img src="${book.coverUrl}" alt="${book.title}" class="book-cover" loading="lazy">
+        <div class="book-info">
+            <h3 class="book-title">${book.title}</h3>
+            <p class="book-author">by ${book.author}</p>
+            <p class="book-description">${book.description.substring(0, 150)}...</p>
+        </div>
+    `;
+    
+    handleCardClick(book); // Use the new handler
+    bookContainer.appendChild(bookCard);
+}
