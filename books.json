@@ -10,184 +10,535 @@
             "readLink": "https://en.wikipedia.org/wiki/Ahimsa"
         },
         {
-            "title": "The Great Gatsby",
-            "author": "F. Scott Fitzgerald",
-            "description": "The Great Gatsby is a 1925 novel by American writer F. Scott Fitzgerald. Set in the Jazz Age on Long Island, the novel depicts narrator Nick Carraway's interactions with mysterious millionaire Jay Gatsby and Gatsby's obsession to reunite with his former lover, Daisy Buchanan.",
-            "publishedDate": "April 10, 1925",
-            "pageCount": "218",
-            "coverUrl": "img/cover/The_Burmese_in_a_Year_of_War.jpg",
-            "readLink": "https://www.gutenberg.org/ebooks/64317"
+            "title": "ငြိမ်းချမ်းမှုနှင့်သင့်မြတ်မှု",
+            "author": "တောမှီရဟန်း",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
         },
         {
-            "title": "To Kill a Mockingbird",
-            "author": "Harper Lee",
-            "description": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. Instantly successful, widely read in high schools and middle schools in the United States, it has become a classic of modern American literature, winning the Pulitzer Prize.",
-            "publishedDate": "July 11, 1960",
-            "pageCount": "281",
-            "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg",
-            "readLink": "https://archive.org/details/to-kill-a-mockingbird-harper-lee"
+            "title": "ပါတေ်မူပြီးနောက်ဝယ်",
+            "author": "တောမှီရဟန်း",
+            "description": "",
+            "publishedDate": "December, 2011",
+            "pageCount": 210,
+            "coverUrl": "",
+            "readLink": ""
         },
         {
-            "title": "1984",
-            "author": "George Orwell",
-            "description": "Nineteen Eighty-Four is a dystopian social science fiction novel by English novelist George Orwell. It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime.",
-            "publishedDate": "June 8, 1949",
-            "pageCount": "328",
-            "coverUrl": "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0mfL.jpg",
-            "readLink": "https://www.gutenberg.org/ebooks/60670"
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
         },
         {
-            "title": "Pride and Prejudice",
-            "author": "Jane Austen",
-            "description": "Pride and Prejudice is an 1813 romantic novel of manners written by Jane Austen. The novel follows the character development of Elizabeth Bennet, the dynamic protagonist of the book who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness.",
-            "publishedDate": "January 28, 1813",
-            "pageCount": "279",
-            "coverUrl": "https://images-na.ssl-images-amazon.com/images/I/71Q1tPupKjL.jpg",
-            "readLink": "https://www.gutenberg.org/ebooks/1342"
+            "title": "မြန်မာသူအိမ်ရှင်မ",
+            "author": "တောမှီရဟန်း",
+            "description": "",
+            "publishedDate": "February, 2003",
+            "pageCount": 67,
+            "coverUrl": "",
+            "readLink": ""
         },
         {
-            "title": "The Hobbit",
-            "author": "J.R.R. Tolkien",
-            "description": "The Hobbit, or There and Back Again is a children's fantasy novel by English author J. R. R. Tolkien. It was published in 1937 to wide critical acclaim, being nominated for the Carnegie Medal and awarded a prize from the New York Herald Tribune for best juvenile fiction.",
-            "publishedDate": "September 21, 1937",
-            "pageCount": "310",
-            "coverUrl": "https://images-na.ssl-images-amazon.com/images/I/710+HcoP38L.jpg",
-            "readLink": "https://archive.org/details/TheHobbitByJ.R.R.Tolkien"
+            "title": "ထီ့ဒိုက်ဒါန်.",
+            "author": "မူ.ကျာ်ပညာသာမိ",
+            "description": "",
+            "publishedDate": "14/ 11/ 1993",
+            "pageCount": 33,
+            "coverUrl": "",
+            "readLink": ""
         },
         {
-            "title": "Moby-Dick",
-            "author": "Herman Melville",
-            "description": "Moby-Dick; or, The Whale is an 1851 novel by American writer Herman Melville. The book is the sailor Ishmael's narrative of the obsessive quest of Ahab, captain of the whaling ship Pequod, for revenge on Moby Dick, the giant white sperm whale that on the ship's previous voyage bit off Ahab's leg at the knee.",
-            "publishedDate": "October 18, 1851",
-            "pageCount": "635",
-            "coverUrl": "https://images-na.ssl-images-amazon.com/images/I/91dSMhdIzTL.jpg",
-            "readLink": "https://www.gutenberg.org/ebooks/2701"
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
         },
         {
-            "title": "War and Peace",
-            "author": "Leo Tolstoy",
-            "description": "War and Peace is a literary work mixed with chapters on history and philosophy by the Russian author Leo Tolstoy. It was first published serially, then published in its entirety in 1869. It is regarded as one of Tolstoy's finest literary achievements and remains a classic of world literature.",
-            "publishedDate": "1869",
-            "pageCount": "1225",
-            "coverUrl": "https://www.gutenberg.org/cache/epub/2600/pg2600.cover.medium.jpg",
-            "readLink": "https://www.gutenberg.org/ebooks/2600"
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
         },
         {
-            "title": "The Catcher in the Rye",
-            "author": "J.D. Salinger",
-            "description": "The Catcher in the Rye is a novel by J. D. Salinger, partially published in serial form in 1945-1946 and as a novel in 1951. It was originally intended for adults but is often read by adolescents for its themes of angst, alienation, and as a critique on superficiality in society.",
-            "publishedDate": "July 16, 1951",
-            "pageCount": "234",
-            "coverUrl": "https://images-na.ssl-images-amazon.com/images/I/91HPG31dTwL.jpg",
-            "readLink": "https://archive.org/details/TheCatcherInTheRye_201810"
+            "title": "ကလေးများအတွက် မြတ်ဗုဒ္ဓဝိပါက်တော် တစ်ဆယ့်နှစ်ပါး",
+            "author": "တောမှီရဟန်း",
+            "description": "",
+            "publishedDate": "June,2002",
+            "pageCount": 30,
+            "coverUrl": "",
+            "readLink": ""
         },
         {
-            "title": "The Lord of the Rings",
-            "author": "J.R.R. Tolkien",
-            "description": "The Lord of the Rings is an epic high-fantasy novel by English author and scholar J. R. R. Tolkien. Set in Middle-earth, intended to be Earth at some distant time in the past, the story began as a sequel to Tolkien's 1937 children's book The Hobbit, but eventually developed into a much larger work.",
-            "publishedDate": "July 29, 1954",
-            "pageCount": "1178",
-            "coverUrl": "https://images-na.ssl-images-amazon.com/images/I/51EstVXM1UL.jpg",
-            "readLink": "https://archive.org/details/TheLordOfTheRingsAll3Books"
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
         },
         {
-            "title": "Crime and Punishment",
-            "author": "Fyodor Dostoevsky",
-            "description": "Crime and Punishment is a novel by the Russian author Fyodor Dostoevsky. It was first published in the literary journal The Russian Messenger in twelve monthly installments during 1866. It was later published in a single volume. It is the second of Dostoevsky's full-length novels following his return from ten years of exile in Siberia.",
-            "publishedDate": "1866",
-            "pageCount": "430",
-            "coverUrl": "https://www.gutenberg.org/cache/epub/2554/pg2554.cover.medium.jpg",
-            "readLink": "https://www.gutenberg.org/ebooks/2554"
+            "title": "တစ်ဆယ့်နှစ်လရာသီ အရှေ့ပိုးကရင် ယဉ်ကျေးမှု",
+            "author": "တောမှီရဟန်း",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
         },
         {
-            "title": "The Odyssey",
-            "author": "Homer",
-            "description": "The Odyssey is one of two major ancient Greek epic poems attributed to Homer. It is one of the oldest extant works of literature still read by contemporary audiences. As with the Iliad, the poem is divided into 24 books. It follows the Greek hero Odysseus, king of Ithaca, and his journey home after the Trojan War.",
-            "publishedDate": "8th century BC",
-            "pageCount": "541",
-            "coverUrl": "https://www.gutenberg.org/cache/epub/1727/pg1727.cover.medium.jpg",
-            "readLink": "https://www.gutenberg.org/ebooks/1727"
+            "title": "မြန်မာတို့-တစ်နှစ်အတွင်းစစ်တလင်း",
+            "author": "တောမှီရဟန်း",
+            "description": "",
+            "publishedDate": "March, 2009",
+            "pageCount": 120,
+            "coverUrl": "",
+            "readLink": ""
         },
         {
-            "title": "Frankenstein",
-            "author": "Mary Shelley",
-            "description": "Frankenstein; or, The Modern Prometheus is a novel written by English author Mary Shelley that tells the story of Victor Frankenstein, a young scientist who creates a hideous, sapient creature in an unorthodox scientific experiment.",
-            "publishedDate": "January 1, 1818",
-            "pageCount": "280",
-            "coverUrl": "https://press.uchicago.edu/.imaging/mte/ucp/medium/dam/ucp/books/jacket/978/02/26/75/9780226752273.jpg/jcr:content/9780226752273.jpg",
-            "readLink": "https://www.gutenberg.org/ebooks/84"
+            "title": "မယ်နုအုတ်ကျောင်းဆရာတော်",
+            "author": "တောမှီရဟန်း",
+            "description": "မယ်နုအုတ်ကျောင်းဆရာတော်ရဲ့ သင်ကြားမှုပုံစံနှင့် ထူးခြားသော ဓမ္မဒေသနာ",
+            "publishedDate": "November,2022",
+            "pageCount": 192,
+            "coverUrl": "",
+            "readLink": ""
         },
         {
-            "title": "Brave New World",
-            "author": "Aldous Huxley",
-            "description": "Brave New World is a dystopian novel by English author Aldous Huxley, written in 1931 and published in 1932. Largely set in a futuristic World State, whose citizens are environmentally engineered into an intelligence-based social hierarchy, the novel anticipates huge scientific advancements in reproductive technology, sleep-learning, psychological manipulation and classical conditioning that are combined to make a dystopian society which is challenged by only a single individual: the story's protagonist.",
-            "publishedDate": "1932",
-            "pageCount": "288",
-            "coverUrl": "https://images-na.ssl-images-amazon.com/images/I/81zE42gT3xL.jpg",
-            "readLink": "https://archive.org/details/BraveNewWorld_201810"
+            "title": "စံရိပ်ငြိမ်တရားများ",
+            "author": "တောမှီရဟန်း",
+            "description": "",
+            "publishedDate": "January, 2003",
+            "pageCount": 162,
+            "coverUrl": "",
+            "readLink": ""
         },
         {
-            "title": "The Brothers Karamazov",
-            "author": "Fyodor Dostoevsky",
-            "description": "The Brothers Karamazov is the final novel by the Russian author Fyodor Dostoevsky. Dostoevsky spent nearly two years writing The Brothers Karamazov, which was published as a serial in The Russian Messenger from January 1879 to November 1880. The author died less than four months after its publication.",
-            "publishedDate": "November 1880",
-            "pageCount": "796",
-            "coverUrl": "https://www.gutenberg.org/cache/epub/28054/pg28054.cover.medium.jpg",
-            "readLink": "https://www.gutenberg.org/ebooks/28054"
+            "title": "သူ့အသက်ကို ချစ်ပါလေ",
+            "author": "တောမှီရဟန်း",
+            "description": "ကိုယ်နှင့်လည်းစာ သတ္တဝါကို ကြင်နာလှစေ သူ့အသက်ကို ချစ်ပါလေ...",
+            "publishedDate": "October, 2014",
+            "pageCount": 112,
+            "coverUrl": "",
+            "readLink": ""
         },
         {
-            "title": "Jane Eyre",
-            "author": "Charlotte Brontë",
-            "description": "Jane Eyre is a novel by English writer Charlotte Brontë, published under the pen name \"Currer Bell\", on 16 October 1847, by Smith, Elder & Co. of London. The first American edition was published the following year by Harper & Brothers of New York. Jane Eyre is a Bildungsroman which follows the experiences of its eponymous heroine, including her growth to adulthood and her love for Mr. Rochester, the brooding master of Thornfield Hall.",
-            "publishedDate": "October 16, 1847",
-            "pageCount": "500",
-            "coverUrl": "https://www.gutenberg.org/cache/epub/1260/pg1260.cover.medium.jpg",
-            "readLink": "https://www.gutenberg.org/ebooks/1260"
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
         },
         {
-            "title": "Wuthering Heights",
-            "author": "Emily Brontë",
-            "description": "Wuthering Heights is an 1847 novel by Emily Brontë, initially published under her pen name Ellis Bell. It concerns two families of the landed gentry living on the West Yorkshire moors, the Earnshaws and the Lintons, and their turbulent relationships with Earnshaw's adopted son, Heathcliff. The novel was influenced by Romanticism and Gothic fiction.",
-            "publishedDate": "December 1847",
-            "pageCount": "342",
-            "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388212715i/6185.jpg",
-            "readLink": "https://www.gutenberg.org/ebooks/768"
+            "title": "မြန်မာနိုင်ငံအတွင်းရှိအရှေ့ပိုးကရင်လူမျိုးတို့၏ယဉ်ကျေးမှုဓလေ့ထုံးစံနှင့်စာပေ",
+            "author": "အရှင်ပညာသာမိ",
+            "description": "",
+            "publishedDate": "2020",
+            "pageCount": 140,
+            "coverUrl": "",
+            "readLink": ""
         },
         {
-            "title": "The Divine Comedy",
-            "author": "Dante Alighieri",
-            "description": "The Divine Comedy is an Italian narrative poem by Dante Alighieri, begun c. 1308 and completed in 1320, a year before his death in 1321. It is widely considered to be the pre-eminent work in Italian literature and one of the greatest works of world literature.",
-            "publishedDate": "1320",
-            "pageCount": "798",
-            "coverUrl": "https://www.gutenberg.org/cache/epub/8800/pg8800.cover.medium.jpg",
-            "readLink": "https://www.gutenberg.org/ebooks/8800"
+            "title": "‌အေးငြိမ်းချမ်းသာမင်္ဂလာ",
+            "author": "တောမှီရဟန်း",
+            "description": "",
+            "publishedDate": "December, 2005",
+            "pageCount": 100,
+            "coverUrl": "",
+            "readLink": ""
         },
         {
-            "title": "Don Quixote",
-            "author": "Miguel de Cervantes",
-            "description": "Don Quixote is a Spanish novel by Miguel de Cervantes. It was originally published in two parts, in 1605 and 1615. A founding work of Western literature, it is often labeled as the first modern novel and one of the greatest works ever written. Don Quixote is also one of the most-translated books in the world.",
-            "publishedDate": "1605 (Part 1), 1615 (Part 2)",
-            "pageCount": "863",
-            "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1694837711i/198878500.jpg",
-            "readLink": "https://www.gutenberg.org/ebooks/996"
+            "title": "ငြိမ်းချမ်းသောနိုင်ံငံတော်မှအပြန်",
+            "author": "တောမှီရဟန်း",
+            "description": "",
+            "publishedDate": "July, 2012",
+            "pageCount": 81,
+            "coverUrl": "",
+            "readLink": ""
         },
         {
-            "title": "Anna Karenina",
-            "author": "Leo Tolstoy",
-            "description": "Anna Karenina is a novel by the Russian author Leo Tolstoy, first published in book form in 1878. Widely considered to be one of the greatest works of literature ever written, Tolstoy himself called it his first true novel. It was initially released in serial installments from 1873 to 1877 in the periodical The Russian Messenger.",
-            "publishedDate": "1878",
-            "pageCount": "864",
-            "coverUrl": "https://www.gutenberg.org/cache/epub/1399/pg1399.cover.medium.jpg",
-            "readLink": "https://www.gutenberg.org/ebooks/1399"
+            "title": "ရွှေစေတီတောရခရီး",
+            "author": "တောမှီရဟန်း",
+            "description": "",
+            "publishedDate": "August,2012",
+            "pageCount": 206,
+            "coverUrl": "",
+            "readLink": ""
         },
         {
-            "title": "The Adventures of Huckleberry Finn",
-            "author": "Mark Twain",
-            "description": "Adventures of Huckleberry Finn is a novel by Mark Twain, first published in the United Kingdom in December 1884 and in the United States in February 1885. Commonly named among the Great American Novels, the work is among the first in major American literature to be written throughout in vernacular English, characterized by local color regionalism.",
-            "publishedDate": "December 10, 1884",
-            "pageCount": "366",
-            "coverUrl": "https://www.ucpress.edu/_next/image?url=https://webfiles.ucpress.edu/coverimage/isbn13/9780520343641.jpg&w=1920&q=90",
-            "readLink": "https://www.gutenberg.org/ebooks/76"
+            "title": "ဥဒ္ဒေသနိဒ္ဒေသပဋ္ဌာန်းပါဠိတော်",
+            "author": "တောမှီရဟန်း",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": 61,
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "ကလေးများအတွက်ဟိတောပဒေသာပုံပြင်များ",
+            "author": "တောမှီရဟန်း",
+            "description": "",
+            "publishedDate": "December, 2010 ",
+            "pageCount": 75,
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "သားသမီးနှင့်မိဘ",
+            "author": "တောမှီရဟန်း",
+            "description": "",
+            "publishedDate": "December,2008",
+            "pageCount": 63,
+            "coverUrl": "https://github.com/maharpyinnyar/books.mahar.asia/blob/main/img/cover/children_and_parents.jpg?raw=true",
+            "readLink": ""
+        },
+        {
+            "title": "မြင့်မြတ်သောမိခင်( ကဗျာ )",
+            "author": "",
+            "description": "",
+            "publishedDate": "January, 2002",
+            "pageCount": 49,
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "ကရင်ပြည်နယ် မေတ္တာခရီး",
+            "author": "တောမှီ ရဟန်း",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "စန္ဒကူးရနံ့များ",
+            "author": "ေတာမှီရဟန်း",
+            "description": "",
+            "publishedDate": "December,2001",
+            "pageCount": 298,
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "အဝိဟိံသာနိုင်ငံရေး",
+            "author": "တောမှီရဟန်း",
+            "description": "အကြမ်းဖက်မှုမပါ",
+            "publishedDate": "November,2016",
+            "pageCount": 310,
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "ပါဋလိပုတ္တဂါမ",
+            "author": "တောမှီရဟန်း",
+            "description": "",
+            "publishedDate": "2009",
+            "pageCount": 57,
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "အရိယသစ္စဒဿန",
+            "author": "အရှင်ပညာသာမိ",
+            "description": "",
+            "publishedDate": "April,2014",
+            "pageCount": 175,
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "ေဝဝန်ဥယာဥ်သာဝယ်",
+            "author": "အရှင်ပညာသာမိ",
+            "description": "",
+            "publishedDate": "Juneberry",
+            "pageCount": 100,
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "သတိပဋ္ဌာန်လေးပါးတရားတော်",
+            "author": "တောမှီရဟန်း",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": 60,
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "ဝ",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "(ကော့ဂွန်းဂူတောရခရီး)",
+            "author": "တောမှီရဟန်း",
+            "description": "",
+            "publishedDate": "May, 2009",
+            "pageCount": 236,
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "ရတနာခရီး",
+            "author": "တောမှီရဟန်း",
+            "description": "",
+            "publishedDate": "August, 2009",
+            "pageCount": 135,
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "အာနာပါနဿတိကမ္မဋ္ဌာန်း",
+            "author": "တောင်ကလေးဆရာတော်",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "တော‌လေးဆယ်",
+            "author": "အရှင်ပညာသာမိ",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "ချမ်းသာစွာအိပ်စက်နိုင်ကြပါစေ",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "မြတ်ဗုဒ္ဓသာသနာတော်ခေတ်နှင့်သမိုင်းအမြင်",
+            "author": "အရှင်ပညာသာမိ",
+            "description": "",
+            "publishedDate": "November,   2021",
+            "pageCount": 252,
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "ရွှေရောင်ပြတောရခရီး",
+            "author": "တောမှီရဟန်း",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
+        },
+        {
+            "title": "ဗုဒ္ဓဂု",
+            "author": "",
+            "description": "",
+            "publishedDate": "",
+            "pageCount": "",
+            "coverUrl": "",
+            "readLink": ""
         }
     ]
-}
+  }
