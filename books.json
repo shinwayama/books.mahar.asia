@@ -1,544 +1,535 @@
 {
     "books": [
-        {
-            "title": "အဝိဟိံသာနိုင်ငံရေး",
-            "author": "တောမှီရဟန်း",
-            "description": "အကြမ်းဖက်မှု မပါဘဲ (နှလုံးရည်သက်သက်) တရားဥပဒေဘောင်အတွင်းသက်သက်ဖြင့် အောင်မြင်လာသည့် နိုင်ငံရေးသည် အဟိံသာ (သို့မဟုတ်) အဝိဟိံသာ (သို့မဟုတ်) အကြမ်းမဖက်သည့် မေတ္တာတရားအောင်နည်း နိုင်ငံရေးဖြစ်ပုံကို ဖဆပလခေတ်၊ မဆလခေတ် မြန်မာ့နိုင်ငံရေးဖြစ်စဉ်များနှင့် ချိန်ထိုး၍ ရှင်းလင်းရေးသားထားသော စာအုပ်ဖြစ်သည်။",
-            "publishedDate": "November, 2016",
-            "pageCount": "310",
-            "coverUrl": "https://s3.ap-southeast-1.amazonaws.com/cdn.sawthinkar/avihimsa-politics.jpg",
-            "readLink": "https://en.wikipedia.org/wiki/Ahimsa"
-        },
-        {
-            "title": "ငြိမ်းချမ်းမှုနှင့်သင့်မြတ်မှု",
-            "author": "တောမှီရဟန်း",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "ပါတေ်မူပြီးနောက်ဝယ်",
-            "author": "တောမှီရဟန်း",
-            "description": "",
-            "publishedDate": "December, 2011",
-            "pageCount": 210,
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "မြန်မာသူအိမ်ရှင်မ",
-            "author": "တောမှီရဟန်း",
-            "description": "",
-            "publishedDate": "February, 2003",
-            "pageCount": 67,
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "ထီ့ဒိုက်ဒါန်.",
-            "author": "မူ.ကျာ်ပညာသာမိ",
-            "description": "",
-            "publishedDate": "14/ 11/ 1993",
-            "pageCount": 33,
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "ကလေးများအတွက် မြတ်ဗုဒ္ဓဝိပါက်တော် တစ်ဆယ့်နှစ်ပါး",
-            "author": "တောမှီရဟန်း",
-            "description": "",
-            "publishedDate": "June,2002",
-            "pageCount": 30,
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "တစ်ဆယ့်နှစ်လရာသီ အရှေ့ပိုးကရင် ယဉ်ကျေးမှု",
-            "author": "တောမှီရဟန်း",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "မြန်မာတို့-တစ်နှစ်အတွင်းစစ်တလင်း",
-            "author": "တောမှီရဟန်း",
-            "description": "",
-            "publishedDate": "March, 2009",
-            "pageCount": 120,
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "မယ်နုအုတ်ကျောင်းဆရာတော်",
-            "author": "တောမှီရဟန်း",
-            "description": "မယ်နုအုတ်ကျောင်းဆရာတော်ရဲ့ သင်ကြားမှုပုံစံနှင့် ထူးခြားသော ဓမ္မဒေသနာ",
-            "publishedDate": "November,2022",
-            "pageCount": 192,
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "စံရိပ်ငြိမ်တရားများ",
-            "author": "တောမှီရဟန်း",
-            "description": "",
-            "publishedDate": "January, 2003",
-            "pageCount": 162,
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "သူ့အသက်ကို ချစ်ပါလေ",
-            "author": "တောမှီရဟန်း",
-            "description": "ကိုယ်နှင့်လည်းစာ သတ္တဝါကို ကြင်နာလှစေ သူ့အသက်ကို ချစ်ပါလေ...",
-            "publishedDate": "October, 2014",
-            "pageCount": 112,
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "မြန်မာနိုင်ငံအတွင်းရှိအရှေ့ပိုးကရင်လူမျိုးတို့၏ယဉ်ကျေးမှုဓလေ့ထုံးစံနှင့်စာပေ",
-            "author": "အရှင်ပညာသာမိ",
-            "description": "",
-            "publishedDate": "2020",
-            "pageCount": 140,
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "‌အေးငြိမ်းချမ်းသာမင်္ဂလာ",
-            "author": "တောမှီရဟန်း",
-            "description": "",
-            "publishedDate": "December, 2005",
-            "pageCount": 100,
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "ငြိမ်းချမ်းသောနိုင်ံငံတော်မှအပြန်",
-            "author": "တောမှီရဟန်း",
-            "description": "",
-            "publishedDate": "July, 2012",
-            "pageCount": 81,
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "ရွှေစေတီတောရခရီး",
-            "author": "တောမှီရဟန်း",
-            "description": "",
-            "publishedDate": "August,2012",
-            "pageCount": 206,
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "ဥဒ္ဒေသနိဒ္ဒေသပဋ္ဌာန်းပါဠိတော်",
-            "author": "တောမှီရဟန်း",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": 61,
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "ကလေးများအတွက်ဟိတောပဒေသာပုံပြင်များ",
-            "author": "တောမှီရဟန်း",
-            "description": "",
-            "publishedDate": "December, 2010 ",
-            "pageCount": 75,
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "သားသမီးနှင့်မိဘ",
-            "author": "တောမှီရဟန်း",
-            "description": "",
-            "publishedDate": "December,2008",
-            "pageCount": 63,
-            "coverUrl": "https://github.com/maharpyinnyar/books.mahar.asia/blob/main/img/cover/children_and_parents.jpg?raw=true",
-            "readLink": ""
-        },
-        {
-            "title": "မြင့်မြတ်သောမိခင်( ကဗျာ )",
-            "author": "",
-            "description": "",
-            "publishedDate": "January, 2002",
-            "pageCount": 49,
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "ကရင်ပြည်နယ် မေတ္တာခရီး",
-            "author": "တောမှီ ရဟန်း",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "စန္ဒကူးရနံ့များ",
-            "author": "ေတာမှီရဟန်း",
-            "description": "",
-            "publishedDate": "December,2001",
-            "pageCount": 298,
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "အဝိဟိံသာနိုင်ငံရေး",
-            "author": "တောမှီရဟန်း",
-            "description": "အကြမ်းဖက်မှုမပါ",
-            "publishedDate": "November,2016",
-            "pageCount": 310,
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "ပါဋလိပုတ္တဂါမ",
-            "author": "တောမှီရဟန်း",
-            "description": "",
-            "publishedDate": "2009",
-            "pageCount": 57,
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "အရိယသစ္စဒဿန",
-            "author": "အရှင်ပညာသာမိ",
-            "description": "",
-            "publishedDate": "April,2014",
-            "pageCount": 175,
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "ေဝဝန်ဥယာဥ်သာဝယ်",
-            "author": "အရှင်ပညာသာမိ",
-            "description": "",
-            "publishedDate": "Juneberry",
-            "pageCount": 100,
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "သတိပဋ္ဌာန်လေးပါးတရားတော်",
-            "author": "တောမှီရဟန်း",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": 60,
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "ဝ",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "(ကော့ဂွန်းဂူတောရခရီး)",
-            "author": "တောမှီရဟန်း",
-            "description": "",
-            "publishedDate": "May, 2009",
-            "pageCount": 236,
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "ရတနာခရီး",
-            "author": "တောမှီရဟန်း",
-            "description": "",
-            "publishedDate": "August, 2009",
-            "pageCount": 135,
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "အာနာပါနဿတိကမ္မဋ္ဌာန်း",
-            "author": "တောင်ကလေးဆရာတော်",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "တော‌လေးဆယ်",
-            "author": "အရှင်ပညာသာမိ",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "ချမ်းသာစွာအိပ်စက်နိုင်ကြပါစေ",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "မြတ်ဗုဒ္ဓသာသနာတော်ခေတ်နှင့်သမိုင်းအမြင်",
-            "author": "အရှင်ပညာသာမိ",
-            "description": "",
-            "publishedDate": "November,   2021",
-            "pageCount": 252,
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "ရွှေရောင်ပြတောရခရီး",
-            "author": "တောမှီရဟန်း",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        },
-        {
-            "title": "ဗုဒ္ဓဂု",
-            "author": "",
-            "description": "",
-            "publishedDate": "",
-            "pageCount": "",
-            "coverUrl": "",
-            "readLink": ""
-        }
+      {
+        "title": "အဝိဟိံသာနိုင်ငံရေး",
+        "author": "တောမှီရဟန်း",
+        "description": "အကြမ်းဖက်မှု မပါဘဲ (နှလုံးရည်သက်သက်) တရားဥပဒေဘောင်အတွင်းသက်သက်ဖြင့် အောင်မြင်လာသည့် နိုင်ငံရေးသည် အဟိံသာ (သို့မဟုတ်) အဝိဟိံသာ (သို့မဟုတ်) အကြမ်းမဖက်သည့် မေတ္တာတရားအောင်နည်း နိုင်ငံရေးဖြစ်ပုံကို ဖဆပလခေတ်၊ မဆလခေတ် မြန်မာ့နိုင်ငံရေးဖြစ်စဉ်များနှင့် ချိန်ထိုး၍ ရှင်းလင်းရေးသားထားသော စာအုပ်ဖြစ်သည်။",
+        "publishedDate": "November, 2016",
+        "pageCount": 310,
+        "coverUrl": "img/cover/avimsa_politics.jpg",
+        "readLink": "https://en.wikipedia.org/wiki/Ahimsa"
+      },
+      {
+        "title": "ငြိမ်းချမ်းမှုနှင့်သင့်မြတ်မှု",
+        "author": "တောမှီရဟန်း",
+        "description": "",
+        "publishedDate": "April,2011",
+        "pageCount": 36,
+        "coverUrl": "img\\cover\\peace_and_your_harmony.jpg",
+        "readLink": ""
+      },
+      {
+        "title": "ပါတော်မူပြီးနောက်ဝယ်",
+        "author": "တောမှီရဟန်း",
+        "description": "",
+        "publishedDate": "December, 2011",
+        "pageCount": 210,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "",
+        "author": "",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": "",
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "မြန်မာသူအိမ်ရှင်မ",
+        "author": "တောမှီရဟန်း",
+        "description": "",
+        "publishedDate": "February, 2003",
+        "pageCount": 67,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "ထီ့ဒိုက်ဒါန်.",
+        "author": "မူ.ကျာ်ပညာသာမိ",
+        "description": "",
+        "publishedDate": "14/ 11/ 1993",
+        "pageCount": 33,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "",
+        "author": "",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": "",
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "",
+        "author": "",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": "",
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "ကလေးများအတွက် မြတ်ဗုဒ္ဓဝိပါက်တော် တစ်ဆယ့်နှစ်ပါး",
+        "author": "တောမှီရဟန်း",
+        "description": "",
+        "publishedDate": "June,2002",
+        "pageCount": 30,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "",
+        "author": "",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": "",
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "တစ်ဆယ့်နှစ်လရာသီ အရှေ့ပိုးကရင် ယဉ်ကျေးမှု",
+        "author": "တောမှီရဟန်း",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": "",
+        "coverUrl": "img/cover/12_month_seasons_eastern_pwo_karen_culture.jpg",
+        "readLink": ""
+      },
+      {
+        "title": "မြန်မာတို့-တစ်နှစ်အတွင်းစစ်တလင်း",
+        "author": "တောမှီရဟန်း",
+        "description": "",
+        "publishedDate": "March, 2009",
+        "pageCount": 120,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "မယ်နုအုတ်ကျောင်းဆရာတော်",
+        "author": "တောမှီရဟန်း",
+        "description": "မယ်နုအုတ်ကျောင်းဆရာတော်ရဲ့ သင်ကြားမှုပုံစံနှင့် ထူးခြားသော ဓမ္မဒေသနာ",
+        "publishedDate": "November,2022",
+        "pageCount": 192,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "စံရိပ်ငြိမ်တရားများ",
+        "author": "တောမှီရဟန်း",
+        "description": "",
+        "publishedDate": "January, 2003",
+        "pageCount": 162,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "သူ့အသက်ကို ချစ်ပါလေ",
+        "author": "တောမှီရဟန်း",
+        "description": "ကိုယ်နှင့်လည်းစာ သတ္တဝါကို ကြင်နာလှစေ သူ့အသက်ကို ချစ်ပါလေ...",
+        "publishedDate": "October, 2014",
+        "pageCount": 112,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "သတိပေးပြတိုက်",
+        "author": "တောမှီရဟန်း",
+        "description": "ပြတိုက်နဲ့ တူတဲ့စာအုပ်ကလေးဟာ ဖတ်ဖြစ်အောင်ဖတ်ပါ။ သတိပေးတဲ့ ပြတိုက်ပါ။ စာအုပ်ထဲမှာ ဘာထူးထူးထွေထွေမှ မပါပါ။ ကျေးဇူးရှိသူကို ဘယ်သူမျိုး ကျေးဇူးဆပ်သင့်တယ်။ လူမှုရေးနယ်ပယ်မှာ ဘယ်လိုသတိမျိုးတွေထားသင့်တယ်ဆိုတဲ့ အကြောင်းတွေပါ။ \"အောက်မေ့ခြင်း၊ အမှတ်ရခြင်း၊ သတိပေးပြတိုက်\"",
+        "publishedDate": "2010",
+        "pageCount": 56,
+        "coverUrl": "img\\cover\\warning_tower.jpg",
+        "readLink": ""
+      },
+      {
+        "title": "မြန်မာနိုင်ငံအတွင်းရှိအရှေ့ပိုးကရင်လူမျိုးတို့၏ယဉ်ကျေးမှုဓလေ့ထုံးစံနှင့်စာပေ",
+        "author": "အရှင်ပညာသာမိ",
+        "description": "",
+        "publishedDate": "2020",
+        "pageCount": 140,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "‌အေးငြိမ်းချမ်းသာမင်္ဂလာ",
+        "author": "တောမှီရဟန်း",
+        "description": "",
+        "publishedDate": "December, 2005",
+        "pageCount": 100,
+        "coverUrl": "img\\cover\\aye_ngayne_chan_mya_mhingalar.jpg",
+        "readLink": ""
+      },
+      {
+        "title": "ငြိမ်းချမ်းသောနိုင်ံငံတော်မှအပြန်",
+        "author": "တောမှီရဟန်း",
+        "description": "",
+        "publishedDate": "July, 2012",
+        "pageCount": 81,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "ရွှေစေတီတောရခရီး",
+        "author": "တောမှီရဟန်း",
+        "description": "",
+        "publishedDate": "August,2012",
+        "pageCount": 206,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "ဥဒ္ဒေသနိဒ္ဒေသပဋ္ဌာန်းပါဠိတော်",
+        "author": "တောမှီရဟန်း",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": 61,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "ကလေးများအတွက်ဟိတောပဒေသာပုံပြင်များ",
+        "author": "တောမှီရဟန်း",
+        "description": "",
+        "publishedDate": "June, 2016",
+        "pageCount": 167,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "သားသမီးနှင့်မိဘ",
+        "author": "တောမှီရဟန်း",
+        "description": "",
+        "publishedDate": "December,2008",
+        "pageCount": 63,
+        "coverUrl": "img\\cover\\children_and_parents.jpg",
+        "readLink": ""
+      },
+      {
+        "title": "မြင့်မြတ်သောမိခင် (ကဗျာ)",
+        "author": "တောမှီရဟန်း",
+        "description": "",
+        "publishedDate": "January, 2002",
+        "pageCount": 49,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "",
+        "author": "",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": "",
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "ကရင်ပြည်နယ် မေတ္တာခရီး",
+        "author": "တောမှီ ရဟန်း",
+        "description": "",
+        "publishedDate": "November,2005",
+        "pageCount": "",
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "",
+        "author": "",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": "",
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "မဇ္ဈိမဒေသခရီး",
+        "author": "တောမှီရဟန်း",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": 300,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "စန္ဒကူးရနံ့များ",
+        "author": "ေတာမှီရဟန်း",
+        "description": "",
+        "publishedDate": "December,2001",
+        "pageCount": 298,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "အဝိဟိံသာနိုင်ငံရေး",
+        "author": "တောမှီရဟန်း",
+        "description": "",
+        "publishedDate": "November,2016",
+        "pageCount": 310,
+        "coverUrl": "img/cover/avimsa_politics.jpg",
+        "readLink": ""
+      },
+      {
+        "title": "",
+        "author": "",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": "",
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "ပါဋလိပုတ္တဂါမ",
+        "author": "တောမှီရဟန်း",
+        "description": "",
+        "publishedDate": "2009",
+        "pageCount": 57,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "အရိယသစ္စဒဿန",
+        "author": "အရှင်ပညာသာမိ",
+        "description": "",
+        "publishedDate": "April,2014",
+        "pageCount": 175,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "ဝေဝန်ဥယာဥ်သာဝယ်",
+        "author": "အရှင်ပညာသာမိ",
+        "description": "",
+        "publishedDate": "Juneberry",
+        "pageCount": 100,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "",
+        "author": "",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": "",
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "",
+        "author": "",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": "",
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "သတိပဋ္ဌာန်လေးပါးတရားတော်",
+        "author": "တောမှီရဟန်း",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": 60,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "ဝေသာလီသို့ သွားရအောင်",
+        "author": "တောမှီရဟန်း",
+        "description": "",
+        "publishedDate": "April, 2010",
+        "pageCount": 69,
+        "coverUrl": "img\\cover\\lets_go_to_vesali.jpg",
+        "readLink": ""
+      },
+      {
+        "title": "",
+        "author": "",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": "",
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "ဇွဲကပင်တောင်သွားရအောင်",
+        "author": "တောမှီရဟန်း",
+        "description": "",
+        "publishedDate": " September,2001",
+        "pageCount": "",
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "(ကော့ဂွန်းဂူတောရခရီး)",
+        "author": "တောမှီရဟန်း",
+        "description": "",
+        "publishedDate": "May, 2009",
+        "pageCount": 236,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "",
+        "author": "",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": "",
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "",
+        "author": "",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": "",
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "",
+        "author": "တောမှီရဟန်း",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": "",
+        "coverUrl": "img\\cover\\worldly_proverbs_for_children.jpg",
+        "readLink": ""
+      },
+      {
+        "title": "",
+        "author": "",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": "",
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "ရတနာခရီး",
+        "author": "တောမှီရဟန်း",
+        "description": "",
+        "publishedDate": "August, 2009",
+        "pageCount": 135,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "အာနာပါနဿတိကမ္မဋ္ဌာန်း",
+        "author": "တောင်ကလေးဆရာတော်",
+        "description": "",
+        "publishedDate": "March, 2024",
+        "pageCount": 226,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "တော‌လေးဆယ်",
+        "author": "အရှင်ပညာသာမိ",
+        "description": "",
+        "publishedDate": "July, 1993",
+        "pageCount": 54,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "",
+        "author": "",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": "",
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "ဒေါသကိုထိန်း၊ ဘေးရန်ငြိမ်း",
+        "author": "တောမှီရဟန်း",
+        "description": "လူအချင်းချင်း သတ်ဖြတ်ခြင်း လူအချင်းချင်း လှည့်ဖြားခြင်း လူအချင်းချင်း အထင်သေးခြင်း လူအချင်းချင်း ဆင်းရဲ အောင် ပြုခြင်းတို့မှ ကင်းဝေးကြပါစေ။",
+        "publishedDate": "May, 1996",
+        "pageCount": 77,
+        "coverUrl": "img\\cover\\control_anger_avert_danger.jpg",
+        "readLink": ""
+      },
+      {
+        "title": "ချမ်းသာစွာအိပ်စက်နိုင်ကြပါစေ",
+        "author": "",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": "",
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "မြတ်ဗုဒ္ဓသာသနာတော်ခေတ်နှင့်သမိုင်းအမြင်",
+        "author": "အရှင်ပညာသာမိ",
+        "description": "",
+        "publishedDate": "November,   2021",
+        "pageCount": 252,
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "",
+        "author": "",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": "",
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "",
+        "author": "",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": "",
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "သားသမီးနှင့်မိဘ",
+        "author": "",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": "",
+        "coverUrl": "img\\cover\\children_and_parents.jpg",
+        "readLink": ""
+      },
+      {
+        "title": "",
+        "author": "",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": "",
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "",
+        "author": "",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": "",
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "ရွှေရောင်ပြတောရခရီး",
+        "author": "တောမှီရဟန်း",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": "",
+        "coverUrl": "",
+        "readLink": ""
+      },
+      {
+        "title": "ဗုဒ္ဓဂု",
+        "author": "",
+        "description": "",
+        "publishedDate": "",
+        "pageCount": "",
+        "coverUrl": "",
+        "readLink": ""
+      }
     ]
   }
